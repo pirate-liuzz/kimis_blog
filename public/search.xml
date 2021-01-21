@@ -1,83 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>spring</title>
-      <link href="/2021/01/21/spring/"/>
-      <url>/2021/01/21/spring/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/01/21/spring/spring5.png" alt="spring"></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>你到底欠下多少技术债?</title>
-      <link href="/2020/05/17/technicalDebt/"/>
-      <url>/2020/05/17/technicalDebt/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2020/05/17/technicalDebt/debt.jpg" alt="logo"></p><a id="more"></a><h3 id="技术债分为哪几种"><a href="#技术债分为哪几种" class="headerlink" title="技术债分为哪几种?"></a><center>技术债分为哪几种?</center></h3><p>  在我看来技术债分为两种：个人技术债和团队/项目技术债。<br>  个人技术债就是指随着时间的推移工作经验的增长,自己的技术没有提升,导致在后续的工作中寸步难行,更有甚者因此丢失工作。<br>  团队/项目技术债就是指在工作中赶工期,项目快速迭代,代码版本不规范,以及产品考虑不足等原因在后期项目维护中举步维艰。</p><h3 id="个人技术债"><a href="#个人技术债" class="headerlink" title="个人技术债"></a><center>个人技术债</center></h3><p>  首先我们先说说个人技术债这个问题。对于个人技术债产生的原因有很多种，比如大学时期一味地享乐打游戏等，找到工作后安稳的环境，最重要的一点就是自己没有上进心。下面我用java来举个例子。</p><table><thead><tr><th align="left">工作年限</th><th align="left">所需技能</th></tr></thead><tbody><tr><td align="left">一年</td><td align="left">java基础，SSM/SSH<font color="red">熟练</font>掌握；常用关系型数据库的sql语法；缓存等</td></tr><tr><td align="left">三年</td><td align="left"><font color="red">精通/扎实</font>的java基础、JVM、不限于SSH/SSM等主流框架；RPC；检索；分布式相关问题等</td></tr><tr><td align="left">五年</td><td align="left">JVM调优，框架源码，java源码等主流技术源码；<font color="blue">预防颈椎病</font>等</td></tr><tr><td align="left">……</td><td align="left">……</td></tr></tbody></table><p>  以上是我简单的举例，技术提升的程度都是因人而异的，当然这包括个人的技术的深度与广度，以及自身求知欲和对技术界的关注度。我也面试过很多人，3年工作经验，5年工作经验，7年工作经验，11年工作经验，他们的能力以及技术水平按理说差距会很大，但是基本上不尽人意，结果不也不说什么了，我相信大家见也见的很多了。<br>  <img src="/2020/05/17/technicalDebt/linzi.jpg" alt="logo"><br>  如果说你想在IT行业继续走下去那么你的债肯定是要还的，并且你要付出高额利息的。<br>  <img src="/2020/05/17/technicalDebt/05/17/technicalDebt/huan.jpeg" class title="This is an example image"><br>  <img src="/2020/05/17/technicalDebt/huan.jpeg" alt="logo"><br>  我们可以来算算,我想想<br>  <img src="/2020/05/17/technicalDebt/enm.jpeg" alt="enm"><br>  算了，还是你自己算吧<br>  <img src="/2020/05/17/technicalDebt/qian.jpeg" alt="qian"></p><h3 id="团队-项目技术债"><a href="#团队-项目技术债" class="headerlink" title="团队/项目技术债"></a><center>团队/项目技术债</center></h3><p>  虽然我不是一个团队的负责人，更不是一个项目负责人，但是通过搜索技术债可以查到的基本上都是从公司团队出发的。这个话题我就不过多赘述了，但是尽早了解可以在自己未来的发展以及职业规划中有一个很好的警醒作用吧。<br>  大致可以从技术、测试、产品这三个大方面来说，举几个例子：</p><ol><li>技术：代码规范、接口文档、版本控制、架构</li><li>测试：测试文档、压测</li><li>产品：需求文档、需求规划</li></ol><p>  亲身经历过没有需求文档，代码不规范这些问题，项目不是很大但是业务逻辑还是很复杂的。后来了解到前期就是为了快速上线，需求迭代，然后上一任开发人员能力不足导致无法继续工作。这就让我后期接手废了很大的功夫。</p><p>  说句实在话实际工作中真真确确实无法完全避免，但是要及时还债，尽量避免。<br>  <img src="/2020/05/17/technicalDebt/hun.jpeg" alt="hua"><br>  我就说到这里，希望通过这片文章给大家一个警醒作用，有则改之无则加勉。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 工作 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>疫情下的生活</title>
-      <link href="/2020/04/01/life/"/>
-      <url>/2020/04/01/life/</url>
-      
-        <content type="html"><![CDATA[<h1 id="疫情时间线"><a href="#疫情时间线" class="headerlink" title="疫情时间线"></a><center>疫情时间线</center></h1><p>  2020年年初,新冠状病毒爆发!看了很多资料应该是从2019年末就开始发现了,当时的定义叫做不明肺炎.其实武汉华南海鲜市场只是一个爆发点,并不是说这个海鲜市场就是传染源.我相信大家如果有点关注这方面的事情话就不会那么无知.<br>具体的疫情时间线各大网络平台上都有详细介绍的.</p><a id="more"></a><p>  <img src="/2020/04/01/life/yiqing.jpg" alt="yiqi"></p><h1 id="疫情下的生活"><a href="#疫情下的生活" class="headerlink" title="疫情下的生活"></a><center>疫情下的生活</center></h1><p>  2020年的春节我相信是大家经历过的最特殊的一次春节吧!除夕,举国上下沉浸在欢乐中的时候,有一批逆行者去武汉支援.<br>  我是一名北漂人员,在一月十几日的时候在下班的地铁上刷到微博说疫情在逐渐严重起来了,就去附近药店买了几个口罩,当时的价格我记得相等清楚,KN95口罩10块钱一包,一包里有两个口罩,当时药店人员说:怎么最近好多买口罩的,是武汉那个疫情严重了吧.口罩都快卖空了最后一盒了刚上架.当时我就在想:应该没那么严重吧,买上几个好了.事实上没有半个月基本上所有电商平台的口罩全部脱销.<br>  春节放假,当我回到老家(山西临汾),我跟我家里爸妈说疫情太严重了,不要去人多的地方去,出门戴口罩.当时我爸妈的表情是这样的<br>  <img src="/2020/04/01/life/xianqi.jpg" alt="xian"><br>  春节当天还没用什么事情,大年初二还是初三的时候各大小区就开始实行封闭小区,只有一个通道能进出.但是我的母亲大人要取垒长城(打麻将),最后拗不过家里的人软磨泡耍起了小脾气,这样式的<br>  <img src="/2020/04/01/life/bukeneng.png" alt="bu"><br>  之后的时间里就在家里陪爸妈,老婆,孩子,还有我姐姐,然后就是微信视频远程拜年.疫情一天天严重,最后国务院通知假期延长至2月2日.我是2月4日返京.</p><h1 id="疫情下的工作"><a href="#疫情下的工作" class="headerlink" title="疫情下的工作"></a><center>疫情下的工作</center></h1><p>  2月4日返京,居家自我隔离14天.这期间在家办公每天起来睁眼是工作,闭眼就是睡觉,感觉好忙,但是在忙啥也说不上来.还有就是日益增长的厨艺和日益增长的体重.如今还在家办公的朋友是不是想去上班!<br>  <img src="/2020/04/01/life/hahah.jpg" alt="haha"><br>  2月17日开始到现场办公.公司每天发一次性口罩,进门检测体温,贴个合格标签,食堂封闭,全部换成盒饭,就餐就像考试一样基本没人一张桌子.刚开始上班的时候唯一感到快乐地方就是上班的地铁上人一点都不多(昌平线到西二旗).一直到3月31日.</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 生活 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2020年计划与目标</title>
-      <link href="/2020/01/05/blog/"/>
-      <url>/2020/01/05/blog/</url>
-      
-        <content type="html"><![CDATA[<h1 id="活着！！！"><a href="#活着！！！" class="headerlink" title="活着！！！"></a><center>活着！！！</center></h1><h6 id="2020年计划与目标如下"><a href="#2020年计划与目标如下" class="headerlink" title="2020年计划与目标如下"></a><center>2020年计划与目标如下</center></h6><a id="more"></a><ol><li><p>工作日健身一小时；<br>ps:健身的目的并不是我要练肌肉，而是作为一名程序员的痛，身体是革命的本钱，2019年程序员猝死的消息没有报道出来的太多了</p><img width="200" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1712328969,795823038&fm=26&gp=0.jpg"></li><li><p>在公司做好本职工作，好好学习现在项目中的知识一点点剖析；</p><img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578742395207&di=4b238f8c65c87abe040eadaa52610f05&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20171027%2F2ff65d003c0f4a56b0dca9947eb36803.jpeg"></li><li><p>把《spring5高级编程》看完，做好笔记/总结；</p><img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578742510067&di=01df9ac7ae12e2d75e99335d4753afe0&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201707%2F17%2F20170717211154_wdYas.jpeg"></li><li><p>已经搭建好两个博客：一个写关于技术方面和工作方面的（两周一篇，这是1月8日写的计划，把2020年拉下的补上），另一个也就是现在你所看到的这个blog写生活方面的所见所闻所感、最新新闻等等（一月一篇）当然，多多益善；</p></li><li><p>人到中年不得不养生了，每天一杯菊花+茉莉花+金银花+少许冰糖每天一杯；</p><img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578742572135&di=2bae79bb4f7440132d3cb2156512a5af&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D345226507%2C2135177969%26fm%3D214%26gp%3D0.jpg"></li><li><p>烟这个东西啊，少抽一点；</p></li><li><p>作息时间要尽可能的规律一下，保护好我的稀有的头发</p><img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1579337415&di=64107f23ce74f67fe5e9a19614e887ea&imgtype=jpg&er=1&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-10647de4383fc4c541301a2a94dd7de1_b.gif"></li></ol><p>如果各位想让我帮你保留你的你的年度计划和目标的话可以在下方留言，给你单独来一篇</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 计划与目标 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>spring</title>
+    <url>/2021/01/21/spring/</url>
+    <content><![CDATA[<p><img src="/2021/01/21/spring/spring5.png" alt="spring"></p>
+]]></content>
+      <tags>
+        <tag>java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你到底欠下多少技术债?</title>
+    <url>/2020/05/17/technicalDebt/</url>
+    <content><![CDATA[<p><img src="/2020/05/17/technicalDebt/debt.jpg" alt="logo"></p>
+<a id="more"></a>
+<h3 id="技术债分为哪几种"><a href="#技术债分为哪几种" class="headerlink" title="技术债分为哪几种?"></a><center>技术债分为哪几种?</center></h3><p>  在我看来技术债分为两种：个人技术债和团队/项目技术债。<br>  个人技术债就是指随着时间的推移工作经验的增长,自己的技术没有提升,导致在后续的工作中寸步难行,更有甚者因此丢失工作。<br>  团队/项目技术债就是指在工作中赶工期,项目快速迭代,代码版本不规范,以及产品考虑不足等原因在后期项目维护中举步维艰。</p>
+<h3 id="个人技术债"><a href="#个人技术债" class="headerlink" title="个人技术债"></a><center>个人技术债</center></h3><p>  首先我们先说说个人技术债这个问题。对于个人技术债产生的原因有很多种，比如大学时期一味地享乐打游戏等，找到工作后安稳的环境，最重要的一点就是自己没有上进心。下面我用java来举个例子。</p>
+<table>
+<thead>
+<tr>
+<th align="left">工作年限</th>
+<th align="left">所需技能</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">一年</td>
+<td align="left">java基础，SSM/SSH<font color="red">熟练</font>掌握；常用关系型数据库的sql语法；缓存等</td>
+</tr>
+<tr>
+<td align="left">三年</td>
+<td align="left"><font color="red">精通/扎实</font>的java基础、JVM、不限于SSH/SSM等主流框架；RPC；检索；分布式相关问题等</td>
+</tr>
+<tr>
+<td align="left">五年</td>
+<td align="left">JVM调优，框架源码，java源码等主流技术源码；<font color="blue">预防颈椎病</font>等</td>
+</tr>
+<tr>
+<td align="left">……</td>
+<td align="left">……</td>
+</tr>
+</tbody></table>
+<p>  以上是我简单的举例，技术提升的程度都是因人而异的，当然这包括个人的技术的深度与广度，以及自身求知欲和对技术界的关注度。我也面试过很多人，3年工作经验，5年工作经验，7年工作经验，11年工作经验，他们的能力以及技术水平按理说差距会很大，但是基本上不尽人意，结果不也不说什么了，我相信大家见也见的很多了。<br>  <img src="/2020/05/17/technicalDebt/linzi.jpg" alt="logo"><br>  如果说你想在IT行业继续走下去那么你的债肯定是要还的，并且你要付出高额利息的。<br>  <img src="/2020/05/17/technicalDebt/05/17/technicalDebt/huan.jpeg" class title="This is an example image"><br>  <img src="/2020/05/17/technicalDebt/huan.jpeg" alt="logo"><br>  我们可以来算算,我想想<br>  <img src="/2020/05/17/technicalDebt/enm.jpeg" alt="enm"><br>  算了，还是你自己算吧<br>  <img src="/2020/05/17/technicalDebt/qian.jpeg" alt="qian"></p>
+<h3 id="团队-项目技术债"><a href="#团队-项目技术债" class="headerlink" title="团队/项目技术债"></a><center>团队/项目技术债</center></h3><p>  虽然我不是一个团队的负责人，更不是一个项目负责人，但是通过搜索技术债可以查到的基本上都是从公司团队出发的。这个话题我就不过多赘述了，但是尽早了解可以在自己未来的发展以及职业规划中有一个很好的警醒作用吧。<br>  大致可以从技术、测试、产品这三个大方面来说，举几个例子：</p>
+<ol>
+<li>技术：代码规范、接口文档、版本控制、架构</li>
+<li>测试：测试文档、压测</li>
+<li>产品：需求文档、需求规划</li>
+</ol>
+<p>  亲身经历过没有需求文档，代码不规范这些问题，项目不是很大但是业务逻辑还是很复杂的。后来了解到前期就是为了快速上线，需求迭代，然后上一任开发人员能力不足导致无法继续工作。这就让我后期接手废了很大的功夫。</p>
+<p>  说句实在话实际工作中真真确确实无法完全避免，但是要及时还债，尽量避免。<br>  <img src="/2020/05/17/technicalDebt/hun.jpeg" alt="hua"><br>  我就说到这里，希望通过这片文章给大家一个警醒作用，有则改之无则加勉。</p>
+]]></content>
+      <tags>
+        <tag>工作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>疫情下的生活</title>
+    <url>/2020/04/01/life/</url>
+    <content><![CDATA[<h1 id="疫情时间线"><a href="#疫情时间线" class="headerlink" title="疫情时间线"></a><center>疫情时间线</center></h1><p>  2020年年初,新冠状病毒爆发!看了很多资料应该是从2019年末就开始发现了,当时的定义叫做不明肺炎.其实武汉华南海鲜市场只是一个爆发点,并不是说这个海鲜市场就是传染源.我相信大家如果有点关注这方面的事情话就不会那么无知.<br>具体的疫情时间线各大网络平台上都有详细介绍的.</p>
+<a id="more"></a>
+<p>  <img src="/2020/04/01/life/yiqing.jpg" alt="yiqi"></p>
+<h1 id="疫情下的生活"><a href="#疫情下的生活" class="headerlink" title="疫情下的生活"></a><center>疫情下的生活</center></h1><p>  2020年的春节我相信是大家经历过的最特殊的一次春节吧!除夕,举国上下沉浸在欢乐中的时候,有一批逆行者去武汉支援.<br>  我是一名北漂人员,在一月十几日的时候在下班的地铁上刷到微博说疫情在逐渐严重起来了,就去附近药店买了几个口罩,当时的价格我记得相等清楚,KN95口罩10块钱一包,一包里有两个口罩,当时药店人员说:怎么最近好多买口罩的,是武汉那个疫情严重了吧.口罩都快卖空了最后一盒了刚上架.当时我就在想:应该没那么严重吧,买上几个好了.事实上没有半个月基本上所有电商平台的口罩全部脱销.<br>  春节放假,当我回到老家(山西临汾),我跟我家里爸妈说疫情太严重了,不要去人多的地方去,出门戴口罩.当时我爸妈的表情是这样的<br>  <img src="/2020/04/01/life/xianqi.jpg" alt="xian"><br>  春节当天还没用什么事情,大年初二还是初三的时候各大小区就开始实行封闭小区,只有一个通道能进出.但是我的母亲大人要取垒长城(打麻将),最后拗不过家里的人软磨泡耍起了小脾气,这样式的<br>  <img src="/2020/04/01/life/bukeneng.png" alt="bu"><br>  之后的时间里就在家里陪爸妈,老婆,孩子,还有我姐姐,然后就是微信视频远程拜年.疫情一天天严重,最后国务院通知假期延长至2月2日.我是2月4日返京.</p>
+<h1 id="疫情下的工作"><a href="#疫情下的工作" class="headerlink" title="疫情下的工作"></a><center>疫情下的工作</center></h1><p>  2月4日返京,居家自我隔离14天.这期间在家办公每天起来睁眼是工作,闭眼就是睡觉,感觉好忙,但是在忙啥也说不上来.还有就是日益增长的厨艺和日益增长的体重.如今还在家办公的朋友是不是想去上班!<br>  <img src="/2020/04/01/life/hahah.jpg" alt="haha"><br>  2月17日开始到现场办公.公司每天发一次性口罩,进门检测体温,贴个合格标签,食堂封闭,全部换成盒饭,就餐就像考试一样基本没人一张桌子.刚开始上班的时候唯一感到快乐地方就是上班的地铁上人一点都不多(昌平线到西二旗).一直到3月31日.</p>
+]]></content>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年计划与目标</title>
+    <url>/2020/01/05/blog/</url>
+    <content><![CDATA[<h1 id="活着！！！"><a href="#活着！！！" class="headerlink" title="活着！！！"></a><center>活着！！！</center></h1><h6 id="2020年计划与目标如下"><a href="#2020年计划与目标如下" class="headerlink" title="2020年计划与目标如下"></a><center>2020年计划与目标如下</center></h6><a id="more"></a>
+<ol>
+<li><p>工作日健身一小时；<br>ps:健身的目的并不是我要练肌肉，而是作为一名程序员的痛，身体是革命的本钱，2019年程序员猝死的消息没有报道出来的太多了</p>
+<img width="200" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1712328969,795823038&fm=26&gp=0.jpg"></li>
+<li><p>在公司做好本职工作，好好学习现在项目中的知识一点点剖析；</p>
+<img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578742395207&di=4b238f8c65c87abe040eadaa52610f05&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20171027%2F2ff65d003c0f4a56b0dca9947eb36803.jpeg"></li>
+<li><p>把《spring5高级编程》看完，做好笔记/总结；</p>
+<img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578742510067&di=01df9ac7ae12e2d75e99335d4753afe0&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201707%2F17%2F20170717211154_wdYas.jpeg">
+</li>
+<li><p>已经搭建好两个博客：一个写关于技术方面和工作方面的（两周一篇，这是1月8日写的计划，把2020年拉下的补上），另一个也就是现在你所看到的这个blog写生活方面的所见所闻所感、最新新闻等等（一月一篇）当然，多多益善；</p>
+</li>
+<li><p>人到中年不得不养生了，每天一杯菊花+茉莉花+金银花+少许冰糖每天一杯；</p>
+<img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578742572135&di=2bae79bb4f7440132d3cb2156512a5af&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D345226507%2C2135177969%26fm%3D214%26gp%3D0.jpg">
+</li>
+<li><p>烟这个东西啊，少抽一点；</p>
+</li>
+<li><p>作息时间要尽可能的规律一下，保护好我的稀有的头发</p>
+<img width="200" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1579337415&di=64107f23ce74f67fe5e9a19614e887ea&imgtype=jpg&er=1&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-10647de4383fc4c541301a2a94dd7de1_b.gif">
+
+</li>
+</ol>
+<p>如果各位想让我帮你保留你的你的年度计划和目标的话可以在下方留言，给你单独来一篇</p>
+]]></content>
+      <tags>
+        <tag>计划与目标</tag>
+      </tags>
+  </entry>
 </search>
